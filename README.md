@@ -163,4 +163,4 @@ npm run dev
 ساخته شده با ❤️ برای یادگیری و توسعه نرم‌افزارهای Real-Time.
 
 این نسخه به علت باگ های زیاد به ریپویی دیگه انتقال یافت.
-https://githab.com/khodemadi/chat-pro2
+https://github.com/khodemadi/chat-pro2
